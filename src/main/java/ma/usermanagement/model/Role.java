@@ -1,5 +1,5 @@
 
-package ma.usermanagement.entity;
+package ma.usermanagement.model;
 
 public enum Role {
     ADMIN,
